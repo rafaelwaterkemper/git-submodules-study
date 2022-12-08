@@ -1,0 +1,3 @@
+[submodule "nodejs-reinforce"]
+	path = nodejs-reinforce
+	url = https://github.com/rafaelwaterkemper/nodejs-reinforce.git

@@ -1,4 +1,4 @@
 [submodule "nodejs-reinforce"]
 	path = nodejs-reinforce
 	url = https://github.com/rafaelwaterkemper/nodejs-reinforce.git
-	branch = 1.0.0
+	branch = master
